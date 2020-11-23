@@ -1,1 +1,3 @@
-# sorting
+# Sorting
+- Merge Sort
+- Quick Sort
